@@ -1,2 +1,2 @@
 // Cấu hình Base URL API (Thay đổi URL nếu cần)
-export const API_URL = "http://localhost:8000/api";
+export const API_URL = "https://bkts-tinh-diem.vercel.app/api";
