@@ -1,0 +1,66 @@
+STT,Mã xét tuyển,Tên mã xét tuyển,Dự báo điểm chuẩn ĐGTD,Dự báo điểm chuẩn XTTN 1.2,Dự báo điểm chuẩn XTTN 1.3,Dự báo điểm chuẩn THPT 
+1,IT1,CNTT: Khoa học Máy tính,71.62+,74.42+,71.69+,27.8+
+2,IT-E10,Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến),71.62+,74.42+,71.69+,27.8+
+3,IT2,CNTT: Kỹ thuật Máy tính,65.56 - 73.02,65.28 - 75.66,61.65 - 75.78,26.5-28
+4,IT-E7,Công nghệ thông tin (Global ICT),65.56 - 73.02,65.28 - 75.66,61.65 - 75.78,26.5-28
+5,IT-E15,An toàn không gian số - Cyber Security (CT Tiên tiến),65.56 - 73.02,65.28 - 75.66,61.65 - 75.78,26.5-28
+6,EE2,Kỹ thuật Điều khiển - Tự động hoá,65.56 - 73.02,65.28 - 75.66,61.65 - 75.78,26.5-28
+7,MS2,Kỹ thuật Vi điện tử và Công nghệ nano,65.56 - 73.02,65.28 - 75.66,61.65 - 75.78,26.5-28
+8,IT-E6,Công nghệ thông tin (Việt - Nhật),65.56 - 73.02,65.28 - 75.66,61.65 - 75.78,26.5-28
+9,EE-E8,Kỹ thuật Điều khiển - Tự động hoá (CT tiên tiến),61.44-68.85,58.04-71.07,56.97-65.4,25.5- 27.3
+10,IT-EP,Công nghệ thông tin (Việt - Pháp),61.44-68.85,58.04-71.07,56.97-65.4,25.5- 27.3
+11,ET1,Kỹ thuật Điện tử - Viễn thông,61.44-68.85,58.04-71.07,56.97-65.4,25.5- 27.3
+12,MI1,Toán - Tin,61.44-68.85,58.04-71.07,56.97-65.4,25.5- 27.3
+13,EM-E14,Logistics và Quản lý chuỗi cung ứng (CT tiên tiến),66.64-76.23,67.19-78.5,62.89-85.2,24.5-26.3
+14,ET-E9,Hệ thống nhúng thông minh và IoT (CT tiên tiến),61.44-68.85,58.04-71.07,56.97-65.4,25.5- 27.3
+15,MI2,Hệ thống thông tin quản lý,61.44-68.85,58.04-71.07,56.97-65.4,25.5- 27.3
+16,ME1,Kỹ thuật Cơ điện tử,61.44-68.85,58.04-71.07,56.97-65.4,25.5- 27.3
+17,ET-E4,Kỹ thuật Điện tử - Viễn thông (CT tiên tiến),61.44-68.85,58.04-71.07,56.97-65.4,25.5- 27.3
+18,EM-E13,Phân tích kinh doanh (CT tiên tiến),62.49-70,59.89-72.99,58.16-66.94,23.5-25.3
+19,ET-E16,Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến),58.1-64.73,55-63.83,55-60.71,24.5-26.3
+20,ET2,Kỹ thuật Y sinh,58.1-64.73,55-63.83,55-60.71,24.5-26.3
+21,TE1,Kỹ thuật Ô tô,58.1-64.73,55-63.83,55-60.71,24.5-26.3
+22,EM5,Tài chính - Ngân hàng,62.49-70,59.89-72.99,58.16-66.94,23.5-25.3
+23,EE1,Kỹ thuật Điện,58.1-64.73,55-63.83,55-60.71,24.5-26.3
+24,EM3,Quản trị kinh doanh,62.49-70,59.89-72.99,58.16-66.94,23.5-25.3
+25,TE3,Kỹ thuật Hàng không,58.1-64.73,55-63.83,55-60.71,24.5-26.3
+26,EM2,Quản lý công nghiệp,62.49-70,59.89-72.99,58.16-66.94,23.5-25.3
+27,EM4,Kế toán,62.49-70,59.89-72.99,58.16-66.94,23.5-25.3
+28,EE-E18,Hệ thống điện và năng lượng tái tạo (CT tiên tiến),58.1-64.73,55-63.83,55-60.71,24.5-26.3
+29,EM1,Quản lý năng lượng,56.55 - 64.57,55-63.54,55-60.53,22-24
+30,ME-E1,Kỹ thuật Cơ điện tử (CT tiên tiến),58.1-64.73,55-63.83,55-60.71,24.5-26.3
+31,ET-E5,Kỹ thuật Y sinh (CT tiên tiến),58.1-64.73,55-63.83,55-60.71,24.5-26.3
+32,TE2,Kỹ thuật Cơ khí động lực,58.1-64.73,55-63.83,55-60.71,24.5-26.3
+33,FL1,Tiếng Anh KHKT và Công nghệ,53.08-64.57,55-63.54,55-60.53,21-24
+34,CH-E11,Kỹ thuật Hóa dược (CT tiên tiến),58.1-64.73,55-63.83,55-60.71,24.5-26.3
+35,EE-EP,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV),58.1-64.73,55-63.83,55-60.71,24.5-26.3
+36,TE-E2,Kỹ thuật Ô tô (CT tiên tiến),58.1-64.73,55-63.83,55-60.71,24.5-26.3
+37,ED2,Công nghệ giáo dục,62.49-70,59.89-72.99,58.16-66.94,23.5-25.3
+38,ME2,Kỹ thuật Cơ khí,58.1-64.73,55-63.83,55-60.71,24.5-26.3
+39,FL2,Tiếng Anh chuyên nghiệp quốc tế,53.08-64.57,55-63.54,55-60.53,21-24
+40,PH1,Vật lý kỹ thuật,58.1-64.73,55-63.83,55-60.71,24.5-26.3
+41,TE-EP,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV),52.17- 59.49,55,55,22-25
+42,ET-LUH,Điện tử - Viễn thông - hợp tác với ĐH Leibniz Hannover (Đức),52.17- 59.49,55,55,22-25
+43,MS3,Công nghệ vật liệu Polyme và Compozit,52.17- 59.49,55,55,22-25
+44,MS1,Kỹ thuật Vật liệu,52.17- 59.49,55,55,22-25
+45,PH3,Vật lý Y khoa,52.17- 59.49,55,55,22-25
+46,BF2,Kỹ thuật Thực phẩm,52.17- 59.49,55,55,22-25
+47,ED3,Quản lý giáo dục,53.08-64.57,55-63.54,55-60.53,21-24
+48,BF1,Kỹ thuật Sinh học,52.17- 59.49,55,55,22-25
+49,HE1,Kỹ thuật Nhiệt,52.17- 59.49,55,55,22-25
+50,ME-LUH,Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức),52.17- 59.49,55,55,22-25
+51,ME-NUT,Cơ điện tử - hợp tác với ĐH Công nghệ Nagaoka (Nhật Bản),52.17- 59.49,55,55,22-25
+52,ME-GU,Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc),52.17- 59.49,55,55,22-25
+53,CH1,Kỹ thuật Hoá học,52.17- 59.49,55,55,22-25
+54,MS-E3,Khoa học và kỹ thuật vật liệu (CT tiên tiến),52.17- 59.49,55,55,22-25
+55,PH2,Kỹ thuật hạt nhân,52.17- 59.49,55,55,22-25
+56,BF-E12,Kỹ thuật Thực phẩm (CT tiên tiến),52.17- 59.49,55,55,22-25
+57,CH2,Hoá học,52.17- 59.49,55,55,22-25
+58,MS5,Kỹ thuật in,52.17- 59.49,55,55,22-25
+59,TROY-IT,Khoa học máy tính - hợp tác với ĐH Troy (Hoa Kỳ),56.55-68.72,55-70.84,55-65.25,22-25
+60,BF-E19,Kỹ thuật sinh học (CT tiên tiến),46.95-52.17,55,55,19.5-22
+61,TX1,Công nghệ Dệt - May,46.95-52.17,55,55,19.5-22
+62,EV1,Kỹ thuật Môi trường,46.95-52.17,55,55,19.5-22
+63,TROY-BA,Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ),46.48-56.55,55,55,19-22
+64,EV2,Quản lý Tài nguyên và Môi trường,46.95-52.17,55,55,19.5-22
+65,FL3,Tiếng Trung KHKT và Công nghệ,46.48-56.55,55,55,19-22

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tính điểm xét tuyển Đại học Bách Khoa Hà Nội</title>
+    <meta name="description" content="Ứng dụng hỗ trợ tính điểm và tư vấn tuyển sinh Đại học Bách Khoa Hà Nội" />
+    <meta name="author" content="HUST SEEE" />
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/lovable-uploads/hinhBk.png" />
+    <link rel="shortcut icon" type="image/png" href="/lovable-uploads/hinhBk.png" />
+    <link rel="apple-touch-icon" href="/lovable-uploads/hinhBk.png" />
+
+    <meta property="og:title" content="Tính điểm xét tuyển Đại học Bách Khoa Hà Nội" />
+    <meta property="og:description" content="Ứng dụng hỗ trợ tính điểm và tư vấn tuyển sinh Đại học Bách Khoa Hà Nội" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/lovable-uploads/z6818391551497_15345685a90cc1ff70fe901c11b3b9b0.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Tính điểm xét tuyển Đại học Bách Khoa Hà Nội" />
+    <meta name="twitter:description" content="Ứng dụng hỗ trợ tính điểm và tư vấn tuyển sinh Đại học Bách Khoa Hà Nội" />
+    <meta name="twitter:image" content="/lovable-uploads/z6818391551497_15345685a90cc1ff70fe901c11b3b9b0.jpg" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    
+    <!-- Firebase Analytics -->
+    <script type="module">
+      // Import the functions you need from the SDKs you need
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-app.js";
+      import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-analytics.js";
+      // TODO: Add SDKs for Firebase products that you want to use
+      // https://firebase.google.com/docs/web/setup#available-libraries
+
+      // Your web app's Firebase configuration
+      // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+      const firebaseConfig = {
+        apiKey: "AIzaSyCv8LBAKYJtXG5V7k5fA4vZdbXWJgTP3ZM",
+        authDomain: "webtinhdiem.firebaseapp.com",
+        projectId: "webtinhdiem",
+        storageBucket: "webtinhdiem.firebasestorage.app",
+        messagingSenderId: "698360035607",
+        appId: "1:698360035607:web:cd29a1176573e865f21f52",
+        measurementId: "G-4XR65Z24WJ"
+      };
+
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+      const analytics = getAnalytics(app);
+    </script>
+    
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
